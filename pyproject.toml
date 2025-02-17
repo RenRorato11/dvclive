@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "📈 Log and track ML metrics, parameters, models with Git and/or DVC"
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
